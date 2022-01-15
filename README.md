@@ -1,5 +1,5 @@
 <h1 align="center">WELCOME TO MY PROFILE! 👋🏽 NerwyXXXX</h1>
-<h3 align="center">🖥️My name is NerwyXXXX. I currently work as a Junior Developer. I have very good experience with English and programming. I think I'm the perfect choice for beautiful and clear code. I used to program mainly non-functional discord shoes. I also tried to program various scripts for games and a lot of other work. • Fontend: • Classic HTML/CSS/JS/CSS • TailwindCSS Backend Node.js/Express MySQL Docker</h3>
+<h3 align="center">WELCOME TO MY PROFILE! 👋🏽 My name is NerwyXXXX. I currently work as a Junior Developer. I have very good experience with English and programming. I think I'm the perfect choice for beautiful and clear code. I used to program mainly non-functional discord shoes. I also tried to program various scripts for games and a lot of other work.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
